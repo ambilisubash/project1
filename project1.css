@@ -1,0 +1,402 @@
+.inbox{
+    background-color:black;
+    height: 40px;
+    margin: 15px 0px;
+}
+.inbox1{
+    /* background-color: black; */
+    height: 550px;
+    
+   
+    text-align: center;
+}
+.sec1{
+    background-image: url(meat3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inbox2{
+    background-color:black;
+    height: 250px;
+    margin: 15px 0px;
+}
+.icon1{
+    font-size: 100px;
+    margin-top: 100px;
+    display: inline-block;
+}
+.head{
+    font-size: 100PX;
+    font-style: oblique;
+    color: aliceblue;
+}
+.head1{
+    font-size: 25PX;
+    font-style: italic;
+    color: aliceblue;
+
+}
+.inbox3{
+    /* background-color:black; */
+    height: 550px;
+    text-align: center;
+    
+    
+}
+.head2{
+    font-size: 90px;
+    font-style: oblique;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 60px;
+}
+.head3{
+    font-size: 25px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+.inbox4{
+    /* background-color: black; */
+    height: 550px;
+    text-align: center;
+}
+    
+.inbox5{
+    /* background-color:black; */
+    height: 250px;
+    margin: 15px 0px;
+}
+.icon2{
+    font-size: 100px;
+    margin-top: 100px;
+    display: inline-block;
+    /* margin-left: 45%; */
+    color: white;
+    
+}
+.section2{
+    background-image: url(rivers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.section3{
+    background-image: url(food1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head4{
+    font-size: 90px;
+    font-style:italic;
+    color:aliceblue;
+    text-align: center;
+
+}
+.head5{
+    font-size: 25px;
+    font-style:italic;
+    color:aliceblue;
+    text-align: center;
+
+}
+.inbox6{
+    /* background-color: black; */
+    height: 550px;
+    text-align: center;
+   
+}
+.section4{
+    background-image: url(bottle3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.head6{
+    font-size: 90px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+.head7{
+    font-size: 90px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+.head8{
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+
+}
+.inbox7{
+    /* background-color: black; */
+    height: 550px;
+    text-align: center;
+}
+.section5{
+    background-image: url(beer2.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+
+}
+.shop{
+    color: white;
+    background-color: rgb(248, 166, 42);
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.menu{
+    color: white;
+    background-color:orange;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-top: 20px;
+    display: inline-block;
+
+}
+.find{
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-top: 40px;
+    display: inline-block;
+
+}
+.view{
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-top: 40px;
+    display: inline-block; 
+}
+.head9{
+    font-size: 90px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+
+}
+.head10{
+    font-size: 25px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+.icon4{
+    font-size: 100px;
+    margin-top: 100px;
+    color:white;
+    
+}
+.more{
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-top: 40px;
+    display: inline-block; 
+}
+.inbox8{
+    /* background-color:black; */
+    height: 250px;
+    margin: 15px 0px;
+}
+.section6{
+    background-image: url(happy\ fam1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+.section7{
+    background-image: url(making\ food2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.inbox9{
+    height: 550px;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 50px;
+    
+}
+.head11{
+      font-size: 70px;
+}
+.head12{
+    font-size: 20px;
+    margin-top: 65px;
+}
+.about{
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-top: 40px;
+    display: inline-block; 
+}
+
+.inbox10{
+    /* background-color:rgba(0, 0, 0, 0.74); */
+    min-height: 250px;
+    margin: 15px 0px;
+    
+}
+.inbox10a{
+    background-image: url(r.jpg);
+    background-size: cover;
+    height: 250px;
+    
+}
+.opacity{
+    background-color: #06060653;
+    height: 100%;
+    width: 100%;
+}
+.line1{
+    background-color: rgb(249, 187, 95);
+    height: 1px;
+width: 80%;
+margin-left: 60px;
+}
+.line2{
+    background-color: rgb(249, 187, 95);
+    height: 1px;
+
+}
+.line3{
+    background-color: rgb(249, 187, 95);
+    height: 1px;
+width: 80%;
+
+}
+.para{
+    color: aliceblue;
+    font-size: 30px;
+    font-style: italic;
+ text-align: center;
+    padding-top: 70px;
+}
+.section8{
+    background-color: black;
+}
+.section9{
+    background-image: url(Chapati.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-color: rgb(7, 7, 7); 
+}
+.para1{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+ text-align: center;
+    padding-top: 70px;
+}
+.para2{
+    color: aliceblue;
+    font-size: 30px;
+    font-style: italic;
+ text-align: center;
+    padding-top: 70px;
+}   
+.para3{
+    color: aliceblue;
+    font-size: 30px;
+    font-style: italic;
+ text-align: center;
+    padding-top: 10px;
+}
+.list{
+    margin-left: -30px;
+
+}
+.style{
+    color:darkgray;
+}
+.us{
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin-top: 40px;
+    display: inline-block;  
+}
+.section10{
+    background-color:#060606;
+    
+}
+.black{
+    background-color: rgba(249, 187, 95, 0.571);
+}
+.inbox11{
+     background-color:black; 
+    height: 60px;
+    margin: 15px 0px;
+    text-align: right;
+}
+.white{
+    background-color: rgba(240, 248, 255, 0.799);
+}
+.smoke{
+    color: rgba(169, 169, 169, 0.908);
+    font-size: 20px;
+    text-align: left;
+}
+.soc{
+    font-size: 20px;
+
+    color: orange;
+    margin:0px 15px;
+ }
+ .section11{
+    background-color: black;
+ }
+ .logo{
+    color: orange;
+    font-size: 40px;
+ }
+ .cart{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+ }
+    
+@media(max-width:575px){
+    .inbox8{
+        height: 178px;
+    }
+    .para2{
+        padding-top: 0px;
+    }
+    .head{
+        font-size: 50px;
+    }
+    .head2{
+        font-size: 50px;
+    }
+    .head4{
+        font-size: 50px;
+    }
+    .head6{
+        font-size: 50px;
+    }
+    .head9{
+        font-size:50px ;
+    }
+    .inbox10{
+        height: 107px;
+    }
+    .head7{
+        font-size: 50px;
+    }
+}
